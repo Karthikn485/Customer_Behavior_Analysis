@@ -103,4 +103,5 @@ The Power BI dashboard provides an interactive view of the key metrics and insig
 
 ### Dashboard Preview
 
-<img width="1410" height="747" alt="image" src="https://github.com/user-attachments/assets/c08443d6-c2e5-49d9-bc24-c54bdde79e24" />
+<img width="1347" height="740" alt="image" src="https://github.com/user-attachments/assets/0e66d1b1-925c-4e49-839d-4629e6bcb19f" />
+
